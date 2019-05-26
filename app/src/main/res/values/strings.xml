@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">adminFlights</string>
+    <string name="add_ticket">Add ticket</string>
+    <string name="date_select">Select a date</string>
+    <string name="from">From: </string>
+    <string name="to">To: </string>
+    <string name="from_where">From where?</string>
+    <string name="where_to">Where to?</string>
+    <string name="update">Update ticket</string>
+
+</resources>
